@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DzakyFawwaz/simplemessage/issues"
   },
-  "homepage": "https://github.com/DzakyFawwaz/simplemessage#readme"
+  "homepage": "https://github.com/DzakyFawwaz/simplemessage#readme",
+  "dependencies": {
+    "ky-simplemessage": "^1.0.0"
+  }
 }
