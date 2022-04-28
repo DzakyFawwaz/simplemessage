@@ -8,6 +8,6 @@ function simplemessage(
   return compiledMessage;
 }
 
-// simplemessage("Dzaky", "My Mom", "I Need Money");
+simplemessage("Dzaky", "My Mom", "I Need Money");
 
 module.export = simplemessage;
