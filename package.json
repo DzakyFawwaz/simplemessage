@@ -1,0 +1,20 @@
+{
+  "name": "ky-simplemessage",
+  "version": "1.0.0",
+  "description": "simple message for testinh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzakyFawwaz/simplemessage.git"
+  },
+  "author": "Dzaky Fawwaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzakyFawwaz/simplemessage/issues"
+  },
+  "homepage": "https://github.com/DzakyFawwaz/simplemessage#readme"
+}
