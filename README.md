@@ -12,12 +12,24 @@ $ npm i ky-simplemessage --save
 import { simplemessage } from "ky-simplemessage"
 ```
 
-### 2. Call the function
+### 2. Make a new variable to call the function
 ```javascript
-simplemessage(from, to, message) 
+let msg = simplemessage(from, to, message) 
 ```
+
+### 3. Print the variable into the console
+```javascript
+console.log(msg)
+```
+
 ---
-### Note:
+### Note
+
+```javascript
+simplemessage()
+```
+> You can't direct call the function like this if you want to show it on your console. It's because this function only returns the message value, you must `console.log()` by yourself. See the usage above.
+
 > `simplemessage()` if you didn't pass any params in this function, you will get default message below.
 ```js
 Hi My Beloved Ones, this is a message from Anonymous.
