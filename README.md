@@ -28,7 +28,7 @@ console.log(msg)
 ```javascript
 simplemessage()
 ```
-> You can't direct call the function like this if you want to show it on your console. It's because this function only returns the message value, you must `console.log()` by yourself. See the usage above.
+> You **can't** direct call the function like this if you want to show it on your console. It's because this function only returns the message value, you must `console.log()` by yourself. See the usage above.
 
 > `simplemessage()` if you didn't pass any params in this function, you will get default message below.
 ```js
