@@ -1,7 +1,8 @@
 {
   "name": "ky-simplemessage",
-  "version": "1.1.0",
-  "description": "simple message for testinh",
+  "version": "1.2.0",
+  "description": "simple message for testing",
+  "keywords": ["message", "javascript"],
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -19,6 +20,6 @@
   },
   "homepage": "https://github.com/DzakyFawwaz/simplemessage#readme",
   "dependencies": {
-    "ky-simplemessage": "^1.1.0"
+    "ky-simplemessage": "^1.2.0"
   }
 }
